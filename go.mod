@@ -1,3 +1,3 @@
-module github.com/tushar2708/altcsv
+module github.com/knightdave/altcsv
 
 go 1.13
